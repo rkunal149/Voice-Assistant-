@@ -62,8 +62,8 @@
 
     <div class="contact">
       <h3>Contact Developer</h3>
-      <p>Email: <a href="mailto:tujhenav@gmail.com">tujhenav@gmail.com</a></p>
-      <p>WhatsApp: <a href="https://wa.me/91XXXXXXXXXX">Chat Now</a></p>
+      <p>Email: <a href="mailto:meshiv9359@gmail.com</a></p>
+      <p>WhatsApp: <a href="https://wa.me/919529460746">Chat Now</a></p>
     </div>
   </div>
 </body>
