@@ -58,4 +58,49 @@
 }
 
 .download-btn {
+  display: block;
+  margin: 10px auto 20px auto;
+  padding: 10px 20px;
+  background-color: #800000;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
 
+footer {
+  background-color: #2d2d2d;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+}
+
+  </style>
+</head>
+<body>  <div class="header">
+    <h1>Graphiluxe</h1>
+    <p>Free PNGs • Fonts • Vectors • 4K Wallpapers — All in One Design Hub</p>
+  </div>  <div class="gallery">
+    <div class="item">
+      <img src="https://i.imgur.com/klbN8dd.png" alt="PNG Sample">
+      <div class="desc">Stylish PNG #1</div>
+      <a href="#" class="download-btn">Download</a>
+    </div><div class="item">
+  <img src="https://i.imgur.com/GI0iTIf.jpg" alt="Vector Sample">
+  <div class="desc">Vector Art #1</div>
+  <a href="#" class="download-btn">Download</a>
+</div>
+
+<div class="item">
+  <img src="https://i.imgur.com/l6GS8Ff.jpg" alt="Font Preview">
+  <div class="desc">Stylish Font Pack</div>
+  <a href="#" class="download-btn">Download</a>
+</div>
+
+  </div>  <footer>
+    Contact: meshiv9359@gmail.com | Instagram: @kunal_raut_149
+  </footer>
+
+  
+  </body>
+</html>
