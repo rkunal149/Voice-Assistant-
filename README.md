@@ -3,6 +3,21 @@
 <head>
   <title>Voice Assistant - Download</title>
   <style>
+
+    style {
+        h1 {
+  font-size: 32px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
     body {
       font-family: Arial, sans-serif;
       text-align: center;
@@ -62,7 +77,7 @@
 
     <div class="contact">
       <h3>Contact Developer</h3>
-      <p>Email: <a href="mailto:meshiv9359@gmail.com</a></p>
+    Email: <a href="mailto:meshiv9359@gmail.com">meshiv9359@gmail.com</a>
       <p>WhatsApp: <a href="https://wa.me/919529460746">Chat Now</a></p>
     </div>
   </div>
